@@ -1,1 +1,1 @@
-print(this is pink battery code)
+print('this is pink battery code')
